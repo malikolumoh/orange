@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(250, 100, 0);
+    color: white;
+    text-align: center;
+}
+.container{
+    margin-top: 150px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.country{
+    padding-bottom: 50px;
+    margin-right: 20px;
+}
+.state{
+    padding-bottom: 50px;
+    margin-right: 20px;
+}
+.district{
+    padding-bottom: 50px;
+    margin-right: 18px;
+
+}
+#country{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 168px;
+    border-radius: 3px;
+}
+#states{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+    margin-left: 70px;
+    border-radius: 3px;
+}
+#district{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 118px;
+    border-radius: 3px;
+}
+select{
+    margin-left: 50px;
+}
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+    padding-right: 115px;
+    margin-left: 130px;
+    border-radius: 7px;
+    border: none;
+}
